@@ -1,0 +1,2 @@
+# MyBlog
+WildChaos's blog
